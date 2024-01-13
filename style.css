@@ -1,0 +1,8 @@
+h1 { text-align:center; color: blue;  background-color:yellow; padding: 2px;}
+h5 { background-color: blueviolet; color:white; font-size: large;}
+.image { width: 598px; height: 200px;}  
+.ima { align-items: end;}
+fieldset {background-color: aliceblue;}
+input[type="text"] { width:40%;background-color:white;font-size: 17px; height: 40px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); border-radius: 10px; text-align: center;}
+li { width:120px; border:2px; background-color: yellow; margin-bottom: 20px; padding:3px; border-radius:10px; color: white;}
+footer { background-color: blueviolet; color: white; text-align: center; height: 30px;}

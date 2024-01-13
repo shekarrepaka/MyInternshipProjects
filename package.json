@@ -1,0 +1,19 @@
+{
+  "name": "E-Commerse-project",
+  "version": "1.0.0",
+  "description": "it is E-commerse project using HTML and CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Node",
+    "JS",
+    "MongoDB"
+  ],
+  "author": "Shekar",
+  "license": "ISC"
+}
